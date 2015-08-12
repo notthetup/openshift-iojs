@@ -3,9 +3,9 @@ Cartridge-Short-Name: IOJS
 Display-Name: io.js
 Description: "Node.js cartridge that lets you take the wheel"
 Version: '1.0.1'
-Source-Url: https://github.com/connyay/openshift-iojs.git
+Source-Url: https://github.com/notthetup/openshift-iojs.git
 License: "Apache v2"
-License-Url: https://github.com/connyay/openshift-iojs/blob/master/LICENSE
+License-Url: https://github.com/notthetup/openshift-iojs/blob/master/LICENSE
 Cartridge-Version: 0.1
 Compatible-Versions: ['0.1']
 Cartridge-Vendor: connyay
